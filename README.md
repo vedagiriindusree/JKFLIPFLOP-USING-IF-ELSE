@@ -89,5 +89,6 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/vedagiriindusree/JKFLIPFLOP-USING-IF-ELSE/assets/149366776/f6ea0c06-4a3b-41b8-b7b0-60088b75fbf5)
 
-**RESULTS**
+**RESULTS**:
+
 Thus,the code executed successfully.
